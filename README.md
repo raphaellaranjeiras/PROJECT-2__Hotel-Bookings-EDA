@@ -1,6 +1,6 @@
 ![](hotel.png)
 
-# Projeto 2: Hotel Bookings
+# Projeto 2: Hotel Bookings - EDA
   O conjunto de dados foi tirado do Kaggle e pode ser acessado [aqui](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand). 
   
   ## Informações
